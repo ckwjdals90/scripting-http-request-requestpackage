@@ -1,0 +1,14 @@
+{
+  "name": "scripting-http-resquest-requestpackage",
+  "version": "1.0.0",
+  "description": "scripting http request with request package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chacha",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.78.0"
+  }
+}
